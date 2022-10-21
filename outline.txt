@@ -3,3 +3,5 @@ Hello World
 Now we have added a file chapter1.txt and added some content.
 
 adding some more content.
+
+cut and paste some content from chapter1 to chapter2
